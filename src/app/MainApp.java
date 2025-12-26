@@ -85,7 +85,7 @@ public class MainApp extends Application {
                 return value;
         }
 
-        switch (to) {
+        switch(to) {
             case "Celsius":
                 return celsius;
             case "Fahrenheit":
